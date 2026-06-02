@@ -4,7 +4,7 @@ import streamlit as st
 # 1. 執行長專屬網頁設定 (CEO Vibe Settings)
 # ==========================================
 st.set_page_config(
-    page_title="Peter Tsai | 執行長個人特頁",
+    page_title="JiaWen | 執行長個人特頁",
     page_icon="👔",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -75,7 +75,7 @@ st.markdown("""
 # 2. 領袖主視覺區塊 (Hero Section)
 # ==========================================
 st.markdown("<br>", unsafe_allow_html=True)
-st.title("👨‍💼 Peter Tsai")
+st.title("👨‍💼 JiaWeni")
 st.subheader("執行長 (CEO) | 南台資訊有限公司")
 
 # 宣傳標語 (Slogan)
